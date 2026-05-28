@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-05-20 211207" src="https://github.com/user-attachments/assets/079f7182-330e-4ec1-b89f-c50980b7bf1d" />
 # TODJE Watch Store
 
 ## Student Information
