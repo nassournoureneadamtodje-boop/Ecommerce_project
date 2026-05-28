@@ -1,3 +1,4 @@
+<img width="1900" height="829" alt="products" src="https://github.com/user-attachments/assets/08ab2260-1f8e-4fc1-b468-8ef32482a2da" />
 # TODJE Watch Store
 
 ## Student Information
