@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 211207" src="https://github.com/user-attachments/assets/079f7182-330e-4ec1-b89f-c50980b7bf1d" />
 # TODJE Watch Store
 
 ## Student Information
@@ -53,7 +54,7 @@ The website includes the following features:
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage.jpeg)
+![Homepage](images/<img width="1897" height="756" alt="homepage" src="https://github.com/user-attachments/assets/4c034c4f-5263-4b78-b708-38989817b93b" />.jpeg)
 
 ### Product Page
 ![Products](images/products.jpeg)
