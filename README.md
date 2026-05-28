@@ -1,4 +1,4 @@
-<img width="1900" height="829" alt="products" src="https://github.com/user-attachments/assets/08ab2260-1f8e-4fc1-b468-8ef32482a2da" />
+
 # TODJE Watch Store
 
 ## Student Information
@@ -57,7 +57,8 @@ The website includes the following features:
 ![Homepage](images/<img width="1897" height="756" alt="homepage" src="https://github.com/user-attachments/assets/4c034c4f-5263-4b78-b708-38989817b93b" />.jpeg)
 
 ### Product Page
-![Products](images/products.jpeg)
+![p<img width="1900" height="829" alt="Products" src="https://github.com/user-attachments/assets/349f6b91-8d99-4bfe-bafe-f21c371a81cf" />
+roducts](images/products.jpeg)
 
 ### About Us Page
 ![About](images/about.jpeg)
