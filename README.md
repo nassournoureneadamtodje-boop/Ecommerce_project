@@ -61,10 +61,13 @@ The website includes the following features:
 products.jpeg)
 
 ### About Us Page
-![About](images/about.jpeg)
+![About](images/<img width="1909" height="830" alt="about" src="https://github.com/user-attachments/assets/b475f0ee-4928-4ae2-8a87-f620e7b81e57" />
+about.jpeg)
 
 ### Cart / Contact Section
-![Cart](images/cart.jpeg)
+![Cart](images/<img width="1893" height="836" alt="cart" src="https://github.com/user-attachments/assets/99309ff9-be7d-4a49-b3f1-719aeebb9772" />
+
+cart.jpeg)
 
 ---
 
